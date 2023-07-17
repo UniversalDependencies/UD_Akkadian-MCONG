@@ -56,11 +56,11 @@
 #
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	pūhi	pūhu	NOUN	NOUN	Case=Gen|Gender=Masc|NounBase=Free|Number=Sing	5	obl	_	_
-3	x	x	X	X	_	_	_	_	_
-4	x	x	X	X	_	_	_	_	_
+3	x	x	X	X	_	0	root	_	_
+4	x	x	X	X	_	0	root	_	_
 5	naṣūni	našû	VERB	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Ventive=Yes|VerbStem=G	0	root	_	_
-6	x	x	X	X	_	_	_	_	_
-7	x	x	X	X	_	_	_	_	_
+6	x	x	X	X	_	0	root	_	_
+7	x	x	X	X	_	0	root	_	_
 8	ittannu	tadānu	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|VerbStem=G	5	conj	_	_
 
 #http://oracc.org/saao/saa01/P334598
