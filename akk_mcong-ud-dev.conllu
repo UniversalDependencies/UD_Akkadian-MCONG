@@ -1,4 +1,4 @@
-# sent-id = oracc.org_saao_saa01_P334598
+# sent_id = oracc.org_saao_saa01_P334598
 #P334598
 # text = {1}{d}x x x x ina qabsi {URU}x x 40 imārī kurummāti 02 mē maqarrutu ša tibni ša 02 ūmāti ittiši abat šarri izzakra Aššur-belu-taqqin šaknu ina Kapar-Diqarate ina mudabir 16 imārī kurummāti kurdiššu ša tibni ittiši ikkārāti ēkalli uṣṣabbit ana pūhi x x naṣūni x x ittannu x x x x+x x+x ša lā pāhiti x x x x ipattiu šarru bēlī lū ūdi
 1	{	{	PROPN	X	_	_	_	_	SpaceAfter=No
@@ -89,7 +89,7 @@
 4	ūdi	wadû	VERB	VERB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P314026
+# sent_id = oracc.org_saao_saa01_P314026
 # text = abat šarri ana 01 mē urāsi
 1	abat	awātu	NOUN	NOUN	Case=Nom|Gender=Fem|NounBase=Bound|Number=Sing	0	root	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
@@ -239,7 +239,7 @@
 44	x	x	X	X	_	43	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334447
+# sent_id = oracc.org_saao_saa05_P334447
 #P334447
 # text = x x x x x i-ru-x x x x x x x Urarṭaya x x x x x x x iplahūni x x x x-a ana ahītīšu x x 09 pāhātīšu dēku pāhutu ša pūt rab šāqê pāhutu ša pūtūni pāhutu ša pūt Ša-Aššur-dubbu pāhutu ša pūt Muṣaṣiri pāhutu ša Wazae pāhutu ša Šibṭuru 02 pāhāti ša pūt Kar-siparri pāhutu ša Šattera gimru 09 pāhātīšu dēku u šarrušunu ina ahītēšu ina libbi ēdānīe ēteli šadû iṣṣabat o zibbāte ša madākti šarrušunu lā ēmuru o lā ūdû akī ušēzibūni ittaṣṣu Melarṭua ina šiddi hūli ana šarrūte o issaknuš Melarṭua šarrūtu u₂-x x x
 1	x	x	X	X	_	_	_	_	_
@@ -369,7 +369,7 @@
 5	x	x	X	X	_	4	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334284
+# sent_id = oracc.org_saao_saa01_P334284
 # text = ana šarri bēlīya urdaka Bel-liqbi
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -540,7 +540,7 @@
 10	nišamme	šemû	VERB	V	Gender=Com|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313425
+# sent_id = oracc.org_saao_saa01_P313425
 #P313425
 # text = ana šarri bēlīya urdaka Bel-liqbi lū šulmu ana šarri bēlīya mātu nagiu ša šarri šulmu Arbaya ina batti ammite ša Hadina šaknu errubu ina libbi x imeru uṣṣū šulmu adanniš ikkāru nukaribbu ša Ammi-leʾti mār Ameri issu libbi ālānīya uktaššīdi x x - tu₂ šî ša immerē ša irṣipūni untaggir ūmâ šû ittalka mā atâ urdānīya tušēli mā ina ēkalli ašappāra anāku tēgirtu assakan mūku urdānīka ana urdānīya ihtasaʾu mūku issu maṣi urdu ša šarri attāni mūku eqlu kiriu ina Yasubuqi laddinakka ṣabat šumma ina muhhi šarri bēlīya išappāra šarru bēlī lūda ša šarru bēlī išpuranni mā Huzaza ana āli tankāri tētapša mā parzillu nišē ana Arbaya ina kaspi ittandinnu mannu šunu tankarāni ša ina libbi iddinūni 03 ṣābāni paršamūti ša ʾAtaya ina libbi x+x x ishunnāti lū 20 lū 30 imārī ammar nušerrabūni ukâlu ana Arbaya iddunu anāku parzillu ana hubtimma erâ ana Arbaya addan ilāni ša šarri bēlī šumma ina Ṣupite lā karākūni 30 imārī ishunnāti ina Huzaza ina kaspi attidin ina muhhi annīti šarru bēlī ina qātēya lubaʾʾi issēn mākisu ina abulli ša Ṣupat issakanu ūmâ šaniu ina Huzaza issakanu Arbaya uṣṣū ina libbi lā illakūni igdurru anāku ammar mākisê issi šarri bēlīya lā kēnāk 01 šiqlu ṣarpi ša ilkīya ina libbi annaggāra naggārānīya ša ina Ṣupite dullu eppašūni ihtalqūni šarru bēlī issapra mā ina Dur-Šarruken lishuru aṣṣabat ussērīdi issēn intarāṣa mēte issēn issuhur ihtalqa šarru bēlī ūda ummâni issu pānīya ittūṣiu lā ana batqi lā ana gumakillī epāši issu pānīya lurammišunu Abattu naggār mugir Qanni nappāhu urdāni ša { 1}EN - MAN - x ina muhhīya ittalkūni mā x x x x x x x
 1	ana	ana	ADP	_	_	2	case	_	_
@@ -954,7 +954,7 @@
 24	x	x	X	_	_	23	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa02_Q009186
+# sent_id = oracc.org_saao_saa02_Q009186
 # text = bēl qiʾʾi ša ṭēmu išakkanūkanūni ušanzarūkanūni qibāniššu mā lū ahhēšu mā lū urdāni ša ina muhhi abīšu ušanzirūni ša karṣīšu ina pān abīšu ekkalūni aleʾ mā lā ša Aššur Šamaš u Adad ina muhhīšu iqbûni takūn mā ina balāt Aššur u Šamaš abūkunu LU TI u₂ ŠID mā ša ahikunu kabbida nupšātkunu uṣra
 1	bēl	bēlu	NOUN	N	Case=Nom|Gender=Masc|MaParticle=No|NounBase=Bound|Number=Sing	7	dislocated	_	_
 2	qiʾʾi	qinû	NOUN	N	Case=Gen	1	nmod:poss	_	_
@@ -1011,7 +1011,7 @@
 53	uṣra	naṣāru	VERB	V	Gender=Masc|Mood=Imp|Number=Plur|Person=2|VerbStem=G	51	conj	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P314227
+# sent_id = oracc.org_saao_saa01_P314227
 # text = ana šarri bēlīya urdaka Kiṣir-Aššur
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -1153,7 +1153,7 @@
 65	x	x	X	X	_	64	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334145
+# sent_id = oracc.org_saao_saa05_P334145
 #P334145
 # text = ana šarri bēlīya urdaka Nashir-Bel lū šulmu ana šarri bēlīya šulmu ana māti ša šarri šulmu ana bīrāti ša šarri libbu ša šarri bēlīya lū ṭāb issurri šarru bēlī iqabbi mā mīnu ṭēmu ša Urarṭaya ammākamma šû udīni memmēni issu libbi lā illika ṭēnšunu lā nišamme
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -1228,7 +1228,7 @@
 9	nišamme	šemû	VERB	VERB	Gender=Com|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbStem=G	6	conj	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313679
+# sent_id = oracc.org_saao_saa05_P313679
 # text = ana šarri bēlīya urdaka Nashir-Bel lū šulmu ana šarri bēlīya dullu ša šarri bēlīya x x ina muhhi alpāni ša {1}x x x ana šarri bēlīya išpuranni mā Nashir-Bel x x x x x x x pān šarri x x x x+x hi x x x x x x x šarru iš-x x x x x x ana x x x x
 1	ana	ana	ADP	PRP	_	_	_	_	_
 1	šarri	šarru	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -1302,7 +1302,7 @@
 52	x	x	X	X	_	51	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334398
+# sent_id = oracc.org_saao_saa05_P334398
 #P334398
 # text = ana šarri bēlīya urdaka Gabbu-ana-Aššur muhhi ṭēme ša Urarṭaya assapar nuk mīnu ṭēnšunu mā 06 ṣābāni ša eṣidiāte ana bīrāti ušēlûni uṣṣabbitu ana rab bēti assapar nuk ahīka ina libbišunu lā tubbal nuk šupru muhhi Abile mā atâ ṣābāni tuṣabbita nuk mīnu ša eppalkanni arhiš šupra ūm 17-KAM aladlammû muhhi nāri uqṭarrib
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -1378,7 +1378,7 @@
 6	uqṭarrib	qerēbu	VERB	V	Aspect=Perf|Gender=Com|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|VerbStem=D	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa10_P238329
+# sent_id = oracc.org_saao_saa10_P238329
 # text = x x x x x+x x x x x x x x x x x+x x+x x x x x x x x x x a x x x x x x x x x x+x x x x x x x x x x x-ma um-x x x x x x x x+x-ma ana šarri x x x x x x x x+x ka ru x+x x x x x x x x+x annî Šamaš x+x x x x x x attalî Sin ša ina Taʾuzi iškunu x x x ilputu ana Šamaš ša ina šatti 01-KAM₂ x x x x x x iltakan umma x x x x-ri-ti šarru ana mātīšu ibbaššīma x x x x x+x-ti ina mātīšu ul uššab x x x x x-šu₂ iturru umma x x x x x x-ri-šu₂ muhhīšu ša amru x x x x x x x+x-bu-ka atta na-x+x x x x x x x x x ul ta-x+x x+x x x x x x x x x x x+x x+x x x+x x x x x x x x x x x x+x x x x x x x+x il pu x x x x x x x x x x x muhhi tebîka nadāti u šitti dibbī kalāma šû lā palhāta maʾdiš lū rahṣāta u pāni ṭēmīya arkî dugul libbū agannimma 03 šanāti agâ Bel-eṭir šikin ṭēmi ušadbabma a-x+x x x x a x x x adi šūtūma x+x x x x x x x x arkīya kaspi {1}{d}EN-x x x x x x x enna adû x x x x x x x x annīti lā x+x x x x x x x x x tāmuru ṭe₃-x x x x x x x x ana Mat-Aššur x x x x x x x x šuṭurma ana šarri x x x x x x x u dibbī ša ilāni x x x x x x x usuhma ina x x x x x x x x šukna muhhi {1}x x x x x x mārē ša Bel-eṭir x+x x x+x x x x+x x x ultu muhhi x+x x x x x x x x x x+x Bel it-x+x x x x x x x x x x it-ta-x+x x x x x x x x x
 1	x	x	X	X	_	0	root	_	_
 2	x	x	X	X	_	1	dep	_	_
@@ -1759,7 +1759,7 @@
 377	x	x	X	X	_	376	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313455
+# sent_id = oracc.org_saao_saa05_P313455
 #P313455
 #
 1	ina	ina	ADP	ADP	_	2	case	_	_
@@ -1784,7 +1784,7 @@
 20	lā	lā	PART	NEG	_	21	advmod	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P313610
+# sent_id = oracc.org_saao_saa15_P313610
 #P313610
 # text = dumāqī x x x intarṣa x x x attahāra šarru bēlī kî ša ilaʾʾûni lēpūšu sissê mar alaqqûni šabalūya li ka sa la x x x a a x x x
 1	dumāqī	dumāqū	NOUN	N	Gender=Masc|Number=Plur	_	_	_	_
@@ -1832,7 +1832,7 @@
 16	x	x	X	X	_	15	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334543
+# sent_id = oracc.org_saao_saa05_P334543
 #P334543
 # text = ana šarri bēlīya urdaka Urzana lū šulmu ana šarri bēlīya šarri bēlī ūda ana bētī alpāni u yābilī ayāka kupû hūlāni uṣṣabbit kāni adaggāla lā illāka rāqūtēya ina pān šarri lā allak ulâ attalka issu x x assuhru x+x x x ina nakiri amūat iyû libbī x x x x ušer ši+x x x x x kāšidu x x x x x x ša šarru bēlī išpuranni mā 02 x x x x x x x 04 mē x+x x x x x x x a-ma-x x x x x x x ana x x x x x x šarru x+x x x x x x ši-x x x x x x x ša ak-x+x x x x x nūru u₂-x x x x x ana bētī x x x x illika x x x Aššur Bel Nabu Ištar bēlet qabli u tāhāzi nakrūtīka ayābīka likšudu x x ina šapla šēpēka liškunu haṭṭaka muhhi mātāti gabbu luṭaʾʾibu
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -2050,7 +2050,7 @@
 5	luṭaʾʾibu	ṭiābu	VERB	VERB	Gender=Masc|Mood=Prec|Number=Plur|Person=3|VerbStem=D	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa17_P237107
+# sent_id = oracc.org_saao_saa17_P237107
 # text = aradka Bel-iqiša ana dinān Nabu-šarru-uṣur bēlīya lullik Nabu u Marduk ana bēlīya likrubū ummā ana bēlīyāma ana mīni kî lā mūṣû x x x x x-in-ni ultu ana Labbanat x x x x x-it-ti uddannin u kūdanī x x x x x x dannāti artakas x x x x x x x x{KI} iltanapparū x x x x x x x x x ul ipdūkunūši {LU₂}x x x x x x x x x x x ul uqarrabū x x x x x x x x x x-nu-ma ana Babili x x x x x x x x x x x x x x+x x x x x x x x x x+x x x x išemme x x x x x x x+x Aramu mala pāni x x x x x x-im-ma ina libbišunu ri-x x x x x x-šu₂ ul iršû adû il-x x x x x mimma mal šupurma emūqu iš-x x x x x x nippuš enna nīdī x x x x x x bēlī liqbīšu šukpidma x x x x x-nu-u₂ ša šarri ina libbi ger-ra-x x x x x ana Babili u Barsip x x x x x x x x x x x Babili u x x x x x x x x x x x x x x umma enna nīdī x x x x x x x x x x x x x+x x x x x x x x x x x x x x x x x+x x x x x x x x x x x x x x x x x+x x x x x x x x x x libbi Marduk-leʾi x x x x x bārûta u ittātīšu x x x x x x-ma liškunu ehrinnu nadi ku-x x x x x x x x x x lumassi kî ina bīti x x x x x x x x x x x+x ibbû ul x x x x x x x x x x emūqu ana muhhikunu x x x x x x x x x x x Bel u Nabu mu-x x x x x x x x x x x x-e u kî x x x x x x x x x x x x-nu šarru lišpura x x x x x x x x x x x kitti ana bēlīya x x x x x x x x x x našpartikunu x x x x x x x x x x x-ta-ka Babilaya x x x x x x x x x x hubtu u x+x x x x x x x x x x x x-na u ra-x x x x x x x x x x x x x malû x x x x x x x x x i-na Elamti aškun x x x x x x x x x x x x x x mala a-x x x x x x x x x x x x x x-rat-ti x x x x x x x x x x x x x x x ina Babili x x x x x x x x x x x x x x x ana libbi x x x x x x x x x x x x x x x-nu i-ma-x x x x x x x x x x x x x x ina Elamti x x x x x x x x x x x x x x id x x x x x x x x x x x bēlā hanṭiš lišpura x x x x x x x
 1	aradka	ardu	NOUN	N	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2	0	root	_	_
 2	Bel-iqiša	bel-iqiša	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
@@ -2646,7 +2646,7 @@
 592	x	x	X	X	_	591	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334312
+# sent_id = oracc.org_saao_saa05_P334312
 #P334312
 # text = ina muhhi ṣābāni Muṣaṣiraya ša šarru rēssunu iššûni ina Sihana ša madbar šunu nišpūru lūbilūniššunû ulâ ina madbarma lū šunu
 1	ina	ina	ADP	PRP	_	2	case	_	_
@@ -2675,7 +2675,7 @@
 7	šunu	šunu	PRON	IP	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	cop	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313660
+# sent_id = oracc.org_saao_saa01_P313660
 # text = bēl iškārāte mā arhiš lēlûni ina dāt Zabbua {URU}x+x x x lērubu ana arhiš u immerē liškul lēlûni birti ēnāti ša hazāni ša-muhhi-āli lumaddidu {LU₂}UD kas pu x x bēl iškārāte lušēṣûni x+x x x x x x x x ina dāt x x x x x mā alka x x x x erba pān x x x x etqa alkāni x x alka a x x x x x ina muhhīka x x x x x x x x x x x
 1	bēl	bēlu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	5	nsubj	_	_
 1	iškārāte	iškāru	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	1	nmod:poss	_	_
@@ -2784,7 +2784,7 @@
 51	x	x	X	X	_	50	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313874
+# sent_id = oracc.org_saao_saa01_P313874
 # text = ana šarri bēlīya urdaka Tariba-Issar
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -2826,7 +2826,7 @@
 8	x	x	X	X	_	7	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P336635
+# sent_id = oracc.org_saao_saa05_P336635
 #P336635
 # text = x+x x x+x x x x ṭēmu ša x x x x kî udīni issu ēkalli lā išapparūnīni mê ina nāri ēṣūni dayālī assapar ina rēš āli ittalku mā x+x x x x x
 1	x+x	x+x	X	X	_	0	root	_	_
@@ -2869,7 +2869,7 @@
 22	x	x	X	X	_	21	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313922
+# sent_id = oracc.org_saao_saa05_P313922
 #P313922
 # text = ana šarri bēlīya urdaka Šulmu-beli lū šulmu ana šarri bēlīya ina muhhi ṭēme x x x x
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -2899,7 +2899,7 @@
 7	x	x	X	X	_	6	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313626
+# sent_id = oracc.org_saao_saa01_P313626
 #P313626
 # text = ana šarri bēlīya urdaka { 1}x+x x x x ša - pān - ēkalli lū šulmu ana šarri bēlīya ina muhhi šaglūte ša šarru bēlī ina muhhi urdīšu išpuranni 01 mē 60 nupšāti šalmūte ša issu Siʾimme illikūninni ātašra attahar akī ša šarru bēlī ina muhhi urdīšu išpuranni mā Marqasi tušaškanšunu mā ina libbi kusāpī ekkulu šarru bēlī ūda ina Guzana tabku 3(ban₂)-a.a e li šab ētaklu ūmâ akī ša šarru bēlī iqabbûni šamnī ibaššî iddanūnišanû akī ša šarru bēlī iqabbûni urdāni ša Rahdiaba ša šarru bēlī išpuranni Aššur-balti-niše ša - pān - ēkalli ittalka 02 mē 77 nupšāti ētašar ittahranni
 1	ana	ana	ADP	_	_	2	case	_	_
@@ -3033,7 +3033,7 @@
 6	ittahranni	mahāru	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|VerbForm=Fin|VerbStem=G	5	conj	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334731
+# sent_id = oracc.org_saao_saa15_P334731
 # text = ana pāhiti bēlīya urdaka Nabu-duru-uṣur lū šulmu ana bēlīya šulmu ana Deri šulmu ana bīrti Lu-ahuʾa Bit-Haʾiraya Ahi-yaqar ša Bit-Sin-ibni ina muhhīya ina muhhi Bel-emuranni ittalkūni issenni iddubbu mā alkāni ina qātīkunu ṣābāni gabbu mā mīnu ša ana Bit-Haʾir issikunu x+x x+x illakūni ammar ša ina muhhi Eṭiru amrūni issi Elamaya lā illakūni attunu pahhira alkāni mā anīni ālu niddan ina qātē niddanakkunu muk Bel-emuranni ina ēkalli ašappāra muk Bit-Haʾir ša šarri šūtu muk pāhutu x x x+x ana libbi ittalak ūmâ annurig ana bēlīya assapra mīnu ša pān bēlīya mahirūni bēlī lēpuš ṭēmu ša egertu ša issi Bel-emuranni ina ēkalli ušēbilūni u ša egerti annīti issēn šû issurru ilāni ša pāhiti bēlīya eppušu nillak Bit-Haʾir nusahhāra mannu ina libbi nipaqqīdi u mannu o annāka ina kutallenni bēlī liprūsu lišpura issurru bēlī iqabbi mā akī annimmâ ina ēkalli tassapra mā issurru Bit-Haʾir nusahhāra mā mannu ina libbi nipaqqīdi mā x x x x-pur anāku ina libbi x annītu udēša ana bēlīya assapra x+x x x mīnu ša ṭēmunni arhiš bēlī lišpura
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	pāhiti	pīhātu	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -3208,7 +3208,7 @@
 171	lišpura	šapāru	VERB	V	Gender=Masc|Mood=Prec|Number=Sing|Person=3|Ventive=Yes|VerbStem=G	170	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334673
+# sent_id = oracc.org_saao_saa15_P334673
 # text = ana šarri bēlīya urdaka Mannu-ki-Ninua lū šulmu ana šarri bēlīya šulmu ana māti ša šarri bēlīya Mataya ša battebattēni nēhu u anēnu dullinni neppaš libbu ša šarri bēlīya lū ṭāb ṭēmu ša Elamaya ina x x x x x x x ina muhhi Ludu x x x x x x ṣābāni ša Elamaya ša x x x x+x x+x-šu₂ mā pāniūte ša x x x x x x x+x-šu₂-nu ba x x x di x x x x x x x-MEŠ-šu₂-nu x+x x+x šu x x x x x Ašpa-bari {KUR}E₂-{LU₂}x+x x x x x x x x-a-te ša Elamaya x x x x x x x x x x x x x x rab ālānišunu iddūku x x x iptalhu ana šadû ēteliu Nabu-taqqinanni ina muhhišunu assapra ittardūni adê issēšu issaknu ētarbu yāmuttu ina libbi ālīšu kammusu 02 kaprāni issu qannišunu bēl dāmē ša ana rab ālāni idūkūni lā ūridūni ahhēšunu ana Nabu-taqqinanni iqṭibiu mā nušerradaššunu ina pāni pāhiti x x nuballaššunu mā a-x x x x x-šu₂-nu kīma itturidūni ina muhhi šarri bēlīya ušebbalaššunu
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	šarri	šarru	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -3386,7 +3386,7 @@
 174	ušebbalaššunu	wabālu	VERB	V	Gender=Com|Gender[obj]=Masc|Mood=Ind|Number=Sing|Number[obj]=Plur|Person=1|Person[obj]=3|Tense=Pres|Ventive=Yes|VerbForm=Fin|VerbStem=Š	173	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334728
+# sent_id = oracc.org_saao_saa01_P334728
 #P334728
 # text = ana šarri bēlīya urdaka Ṭab-ṣil-Ešarra lū šulmu ana šarri bēlīya Aššur Mullissu ana šarri bēlīya likrubu ina muhhi Ruqahaya ša šarru bēlī išpuranni mā atta Zeru-ibni issišunu dubba ana dāt šarri bēlīya 07 ūmāti ina Libbi-ali kammusu kusāpī ina pānīya ekkulu issišunu addubub iqṭibûni mā ahhēni bētātīni ibašši x x x x x x x+x x x x x-ni assapāra illakūni anāku Zeru-ibni issišunu nidabbub kīma ana māšarti nillaka šarru bēlī issīni lidbub zunnu kayamānu izannunu mê adanniš maʾda libbu ša šarri bēlīya
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -3516,7 +3516,7 @@
 4	bēlīya	bēlu	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	appos	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334606
+# sent_id = oracc.org_saao_saa15_P334606
 # text = ana šarri bēlīya urdaka Il-yadaʾ lū šulmu ana šarri bēlīya šulmu ana mātī u bīrāte ša šarri bēlīya libbu ša šarri bēlīya lū ṭābšu rabiūti bīrtu ša Minuʾ ētapšu o 01 līmu imārī kurummāti issu libbi bīrti ša Luhutaya intathu ina libbi iktarru anāku 10 imārī ṭābtu 16 me x x kudimme 30 šappāte ša šamni 18 šappāte ša napṭi 30 qassāti 20 līmu šiltāhī x x-li-ti 10 līmu šurdī 01 mē x x u₂ 02 bilāt {SIG₂}x 03 bilāt šunagāte ša x x-MEŠ ina libbi assakan bēl piqittēya 01 mē Ituʾaya issīšu issīšu issi Qurmuraya ša ēkalli ina libbi aptiqiddi rabiūti Yazapu iktadru igdamru ūm 11-KAM₂ issu libbi Minuʾ uttammešu ina muhhi piāti ša Pati-Illil ittalku bīrtu ina libbi eppušu 10 Qurmurayea 20 Ituʾayea issišunu ittalku ana libbi x-ru-bu maʾdu x x x ina libbi mā ap-ta-x x x x x ina Minuʾ x x x x x ammar ina libbi x x x x zarʾē ina libbi erraš harammāma unammaš ana Dur-Kurigalzi ana maṣṣartīya allak
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	šarri	šarru	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -3686,7 +3686,7 @@
 166	allak	alāku	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbStem=G	161	conj	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334179
+# sent_id = oracc.org_saao_saa05_P334179
 #P334179
 # text = ana šarri bēlīya urdaka Aššur-belu-udaʾʾan lū šulmu ana šarri bēlīya Nabu u Marduk ana šarri bēlīya likrubu ina ūm 22-KAM anāku nuk lallika ēnāti ša šarri bēlīya lāmur Kakkullanu ša-qurbūte ana irtīya issu libbi {URU}x-li-te usahhirāni mā alik ṣābānīka paṭṭir šummu lā illiku mā ṣābānīka ina bubūte imuttu x x x ša 05 urhāni tabku attannaššunu 01 qâ šamnī 01 qâ kusāpī 01 qâ sahlû x x issēniš attannaššunu x x x harammēma anāku attūṣi x x muhhi ṣābāni x x x x x-tar-bu x x x x x x-ti x+x x x x x x-ni-tu x x x x x kūm šunu x x ina battibatti ša {URU}x x kammusu issu pān kupê lā illāka šunu lā x x x ūmâ annurig x x x issi Kakkullani ana āli ittalluku errubu o ša šarru bēlī išpuranni o mā atâ rab bētīka ina libbi laššu 10 {LU₂}EN-x ša ana šarri bēlīya aqabûni šammuru adanniš šiāhu šû ana šarri bēlīya assapāra
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -3925,7 +3925,7 @@
 4	assapāra	šapāru	VERB	V	Aspect=Perf|Gender=Com|Mood=Ind|Number=Sing|Person=1|Ventive=Yes|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334069
+# sent_id = oracc.org_saao_saa05_P334069
 # text = ana šarri bēlīya urdaka Gabbu-ana-Aššur
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	šarri	šarru	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -4077,7 +4077,7 @@
 5	laššu	laššu	VERB	V	_	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334091
+# sent_id = oracc.org_saao_saa05_P334091
 #P334091
 # text = ana masenni bēlīya urdaka Aššur-reṣuwa lū šulmu ana bēlīya mār šipri ša Ukkaya ša ana Urarṭi ēlûni ana Mat-Aššur ittūridi issu libbi Mat-Aššur ina māti rāʾye rabie ētetiq ina Muṣaṣir x+x+x+x x x x abite annīte bēlī lū ūda mīnu ša šītīni ša libbi egerte annīte ina ēkalli lašpur dibbī annūte kunnūte šunu muhhi bēlīya assapra
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -4165,7 +4165,7 @@
 7	assapra	šapāru	VERB	VERB	Aspect=Perf|Gender=Com|Mood=Ind|Number=Sing|Person=1|Ventive=Yes|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334699
+# sent_id = oracc.org_saao_saa01_P334699
 #P334699
 # text = ana šarri bēlīya urdaka Ṭab-šar-Aššur lū šulmu ana šarri bēlīya issu ēkalli issaparūni ina muhhīya mā 01 mē 50 ebirtu ša atbāri libtuqu lintuhūni ana Ninua lūbilūni annurig abtataq attatha ana Ninua allaka šummu ana bēt ramāki ša ili šû x x lantūhu x x x x x x x+x x+x x x
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -4235,7 +4235,7 @@
 26	x	x	X	X	_	25	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P224439
+# sent_id = oracc.org_saao_saa05_P224439
 # text = ana šarri bēlīya urdaka Adad-isseʾa
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -4411,7 +4411,7 @@
 6	ubbala	wabālu	VERB	VERB	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Ventive=Yes|VerbForm=Fin|VerbStem=G	3	conj	_	_
 
 
-# sent-id = oracc.org_saao_saa02_P336039
+# sent_id = oracc.org_saao_saa02_P336039
 # text = šumma Matiʾ-il mārīšu rabûtīšu ša ina adê ša Aššur-nerari šar Mat-Aššur ihaṭṭûni ikkāršu ina ṣēri ay ilsā alāla
 1	šumma	šumma	SCONJ	SBJ	_	12	mark	_	_
 2	Matiʾ-il	matiʾ-il	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -4609,7 +4609,7 @@
 41	lutīr	târu	VERB	V	Gender=Masc|Mood=Prec|Number=Sing|Person=3|VerbStem=D	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa17_P237181
+# sent_id = oracc.org_saao_saa17_P237181
 # text = aradka Nabu-ili ana dinān šarri bēlīya lullik ummā ana šarri bēlīyāma Sagibi u Ṣurriya ša ittīšu ša šarru išpur umma mannu ša-rēši x x-aʾ u uṭṭatu zēru x x ina bītīka mīs pî x+x iṣī bītāti x x x+x x niddi x x x x lid x x nu x x x x x ša šarri ana x x x x x lūmur Ṣurriya x x x ša taškunšunūtu x x x x u tārīšina x x x x Rahi u {1}ia-x x x ana pān šarri altapra x x x šarru ša ka-x x x x u šīmu x x x x
 1	aradka	ardu	NOUN	N	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2	0	root	_	_
 2	Nabu-ili	nabu-ili	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
@@ -4716,7 +4716,7 @@
 103	x	x	X	X	_	102	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P314248
+# sent_id = oracc.org_saao_saa01_P314248
 # text = ša šarru bēlī iqbûni mā issišunu lū x x x mā maqtu x x
 1	ša	ša	PRON	PRON	_	4	obj	_	_
 2	šarru	šarru	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -4750,7 +4750,7 @@
 13	x	x	X	X	_	12	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334643
+# sent_id = oracc.org_saao_saa01_P334643
 #P334643
 # text = ana šarri bēlīya urdaka Bel-liqbi lū šulmu ana šarri bēlīya mātu nagiu ša šarri šulmu o Arbaya ana bētāni ētarabu zunnī ana x+x x ētarāba o šunu errubu uṣṣū x x imeru x x x x ša ana {URU}x x x e-ru-x x x x {LU₂}x x x x i-x x x x x anāku maṣṣartu ša madbar anaṣṣar maṣṣartu dannat adanniš
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -4849,7 +4849,7 @@
 8	adanniš	adanniš	ADV	ADV	_	7	advmod	_	_
 
 
-# sent-id = oracc.org_saao_saa16_P313468
+# sent_id = oracc.org_saao_saa16_P313468
 # text = ana Balti-lešir bēlīya urdiki Nabu-ahu-iddina abūwa gu x mār šipri x x x-a pānāt Nabu-zeru-iddina x ṭupšarru ša {1}x x x x mā 15 manê x x x ana Nabu-balliṭ x x 17 nupšāti x x x x x 04 immeru x+x x x x x anūt x x x x x x {1}{d}x x x x x x x x {1}{d}x x x x x x x x x i-x+x x x x x x x x x mā ni-x x x x x x x issi {LU₂}GAL-x x x x x niddin bu-x x x x ina dāte assaṭar ina pān bēlīya assapāra rēši {1}{d}PA-x x x liššiu abūwa iqṭibi mā nišē urdāni ša bētīya šunu annāku za 01 da x+x x+x x x x+x na x x x x x x+x-mu-na karru inaššûni x x x x x+x-da lišši
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	Balti-lešir	balti-lešir	PROPN	X	Case=Gen|Gender=Masc|Number=Sing	1	dep	_	_
@@ -4994,7 +4994,7 @@
 141	lišši	našû	VERB	V	Gender=Masc|Mood=Prec|Number=Sing|Person=3|VerbStem=G	140	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334173
+# sent_id = oracc.org_saao_saa01_P334173
 #P334173
 # text = ana šarri bēlīya urdaka Aššur-bani lū šulmu ana šarri bēlīya ina muhhi {1}x x x-a-ti x x x x x tankarāni x x x x x x x x x-a x x x x x Kalha x x x x x ina qātīya x x x šarru bēlī idūkanni
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -5063,7 +5063,7 @@
 46	idūkanni	dâku	VERB	VERB	Gender=Masc|Gender[obj]=Com|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Pres|VerbForm=Fin|VerbStem=G	45	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa02_Q009186
+# sent_id = oracc.org_saao_saa02_Q009186
 # text = šumma attunu ina libbi adê annūti ša Aššur-ahu-iddina šar Mat-Aššur u marʾēšu mār marʾēšu tahaṭṭāni KI.MIN kî ša mugirru annītu adi sassīša ina dāmē rahṣatūni kî hannīe ina qabli nakrikunu mugirrīkunu ina libbi dāmē ša ramenīkunu lirrahṣā
 1	šumma	šumma	SCONJ	SBJ	_	15	mark	_	_
 2	attunu	attunu	PRON	IP	Case=Nom|Gender=Masc|Number=Plur|Person=2	15	nsubj	_	_
@@ -5254,7 +5254,7 @@
 47	lēkulāšu	akālu	VERB	V	Gender=Fem|Gender[obj]=Masc|Mood=Prec|Number=Plur|Number[obj]=Sing|Person=3|Person[obj]=3|VerbStem=G	46	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P314108
+# sent_id = oracc.org_saao_saa05_P314108
 #P314108
 # text = x x x+x-a pāhutu ša pūtūwa annāka o x x x šû ishunnāti x x x-u₂ ṣābāni o x x x x bēti 10 x+x x x
 1	x	x	X	X	_	0	root	_	_
@@ -5290,7 +5290,7 @@
 20	x	x	X	X	_	19	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334849
+# sent_id = oracc.org_saao_saa01_P334849
 #P334849
 # text = hannīša x x x x x x Puqudaya x x x u issu pāni x x x x x x ūmâ ina {URU}x+x x x x x ina pānikunu šû x x x x x ūmâ annurig assaprakkunu ūmu ša egertu annītu tammarūni x x dibbī annūti x x x x ina pî ṭēmu x x x x lunammiš lillik x x x x mā abat šarri attahar x x x issaknu x x x x x x x x+x x+x x x x x x x x x da x x x x x x x x x x x mā x x x x x x x x x ša x+x x x x x x x x ihtabtu x x x x x x x mā ūmâ šumma x x x x epiš kal la x x x x x x u šumma urdāni x+x x x x x mā atâ anāku x+x x x x mā atta taš-x x x x x eppušu annurig x x x x ša ana mār šiprīšu x x x x ṭēmu ina libbi x x x x x šinīšu šalāšīšu x+x x x x x x x ša ak-x+x x x x x x x x
 1	hannīša	annîša	ADV	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -5542,7 +5542,7 @@
 66	x	x	X	X	_	65	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313455
+# sent_id = oracc.org_saao_saa05_P313455
 #P313455
 #
 1	ina	ina	ADP	ADP	_	2	case	_	_
@@ -5563,7 +5563,7 @@
 16	laššu	laššu	VERB	VERB	_	11	ccomp	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313803
+# sent_id = oracc.org_saao_saa05_P313803
 # text = x x x x x x x x gab-bi-x x x x x x x eqlātišunu o x x x x x+x adrātešunu o x x x x-li u 20 imārī zarʾē x x x bīrte ina libbi isīte x x x-ma u ṣābāni annēša x x x x kî Aššur-reṣuwa x x x x x+x ayākamēni x
 1	x	x	X	X	_	_	_	_	_
 1	x	x	X	X	_	1	dep	_	_
@@ -5625,7 +5625,7 @@
 57	x	x	X	X	_	56	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P336172
+# sent_id = oracc.org_saao_saa01_P336172
 #P336172
 # text = ša šarru bēlī išpuranni mā atâ x x x x aladlammû x x x x
 1	ša	ša	DET	PRON	_	4	obl	_	_
@@ -5645,7 +5645,7 @@
 15	x	x	X	X	_	14	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P313586
+# sent_id = oracc.org_saao_saa15_P313586
 #P313586
 # text = x x x ni x x x ūmâ mātu ša šarri bēlīya tabtalaṭ libbu ša šarri bēlīya adanniš lū ṭāb o ina pūtūwa a-x x urpu ina mu-x+x x x ša {1}x+x x x x x x x x x x x x x x x x x x x x x x x x x x {URU}da-x x x x x+x kīma issuhra ana šarri bēlīya ašappāra ina muhhi mašak pīri ša ana šarri bēlīya
 1	x	x	X	X	_	0	root	_	_
@@ -5747,7 +5747,7 @@
 8	bēlīya	bēlu	NOUN	NOUN	Case=Gen|Gender=Masc|Gender[psor]=Com|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	appos	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P313442
+# sent_id = oracc.org_saao_saa15_P313442
 #P313442
 # text = x x x x x x x x x x x x-ni x+x x x x x x x x x annīu marʾātišu x x libbi Karla ittidin x x x+x ṭābtu ina libbi naruqqi kunukkušu ina libbi iktarar ittalak šû ana marʾitīšu ussēbil mā hilqāni alkāni Ituʾaya ša ana tappî ina bīrti apqidūni ṭābtu annītu usahhirūni ana ša-qurbūte iqṭibi ša-qurbūte ina muhhi šarri bēlīya issapar ša šarru bēlī išpuranni lāšu Karlaya lā irīhu lā ašʾalšunu lā kurummāti karānī GAZ-MEŠ kudimmē ša iddanšanūni ūmâ ilāni ša šarri bēlīya ētapšu Karlaya annūti ša ina muhhi x x x x x x x+x-nu-ti x x x x x x x x x-nu x x x x x x x x x x-za ušazzazūnu {1}NUMUN-x x x x x x x lā u₂-x x x x x x x ina Karla x x x x
 1	x	x	X	X	_	0	root	_	_
@@ -5927,7 +5927,7 @@
 54	x	x	X	X	_	53	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P313496
+# sent_id = oracc.org_saao_saa15_P313496
 #P313496
 # text = ana šarri bēlīya urdaka {1}x x x x x lū šulmu ana šarri bēlīya akī ina {URU}ur-x x x x anākūni ina muhhi x x x x ša Niya {1}hi-x x x x uṣabbitūni x x x x āmurūni šarru x x x x ussahhirūni x x x ūmâ Niya {1}hi-x x x ussahhirūni x x x x 01 mē 30 imārī eqli x x x x-kal ṣarpu x x x x x ša {LU₂}kal-x x x x x utâršunu mā x x x x atabbak x x x x x mā Umaksatar x x
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -6043,7 +6043,7 @@
 42	x	x	X	X	_	41	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313891
+# sent_id = oracc.org_saao_saa05_P313891
 #P313891
 # text = x x x x nēribi x x x-ru-u-ni ētarab x x-di ina libbi kūdin ussarkib 90 ṣābāni isītu ina libbi ina libbi Eziat ussērībi 30 ṣābāni issu libbi ussēṣi pāniūti x x ṣābāni ina libbi x x x x ušēribūni x x x x x x x
 1	x	x	X	X	_	_	_	_	_
@@ -6111,7 +6111,7 @@
 18	x	x	X	X	_	17	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334540
+# sent_id = oracc.org_saao_saa15_P334540
 # text = ana šarri bēlīya urdaka Šarru-emuranni lū šulmu ana šarri bēlīya šulmu ana bīrte Kaldaya šû lišānu ina Larakka {1}x+x-ha-a.a-u₂ issapra Larakkaya iṣṣabtuniššu ina pānīya naṣūniššu assaʾalšu muk ša ayāka atta mā mar-Babili ana o Larakka issapranni mā parriṣu šūtu mā issanalli mā anīni o nūdaššu mā Nippuraya x x x annurig ina pān šarri bēlīya ubbalūniššu šarru bēlī lišʾalšu anāku assaʾalšu muk Mar-Zeri ayāka mā ina Hiuri ša Puqudi šakīni x sangû ša Uṣur-Adad rēhāte ša pān ilāni nāṣa ina pān šarri bēlīya ittalka
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	šarri	šarru	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -6199,7 +6199,7 @@
 84	ittalka	alāku	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Ventive=Yes|VerbForm=Fin|VerbStem=G	83	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313457
+# sent_id = oracc.org_saao_saa05_P313457
 #P313457
 #
 1	Adad-iriba	adad-iriba	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -6217,7 +6217,7 @@
 13	ša	ša	ADP	PRP	_	14	case	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313511
+# sent_id = oracc.org_saao_saa01_P313511
 # text = x x x x x x - e x x x x x x tu₂ x x x x x - u₂-ni x x x x pāhiti x x x x x - MEŠ x x x x nāṣa x x x x - ta adi x x x x x - i - ni x x x x x
 1	x	x	X	_	_	_	_	_	_
 2	x	x	X	_	_	1	dep	_	_
@@ -6383,7 +6383,7 @@
 47	x	x	X	_	_	46	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313975
+# sent_id = oracc.org_saao_saa01_P313975
 # text = ana šarri bēlīya urdaka Aššur-bani
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -6440,7 +6440,7 @@
 25	x	x	X	X	_	24	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334415
+# sent_id = oracc.org_saao_saa15_P334415
 # text = saao/saa15/P334415
 1	saao	saao		_	_	0	root	_	SpaceAfter=No
 2	/	/		_	_	1	dep	_	SpaceAfter=No
@@ -6498,7 +6498,7 @@
 46	ussēbila	wabālu	VERB	V	Aspect=Perf|Gender=Com|Mood=Ind|Number=Sing|Person=1|Ventive=Yes|VerbForm=Fin|VerbStem=Š	38	conj	_	_
 
 
-# sent-id = oracc.org_saao_saa02_P296062
+# sent_id = oracc.org_saao_saa02_P296062
 #
 # text = adê ša Sin-šarru-iškun šar Mat-Aššur mār Aššur-bani-apli šar kiššati šar Mat-Aššur issi Nabu-aplu-iddina x x x x x x x x x issi Kanunaya x x x x x x x x issi Aqri x x x x x x x x ina mahar Sagmegar Dilbat x x x x x x x x x x x x x x x x x šumi Aššur bēli ṣīri x x x x ša ayābi rāʾimānu ša kēnūti ša šarru irâmūni zayārānšu uhalliqūni mannu ša dabāb ṭuppi annīe ennûni o adê ilāni rabiūti ihaṭṭûni x x ša šamê u kaqqiri arrat lā napšuri maruštu līrimšunu eliš ina balṭūti lissuhšunu šapliš ina kaqqiri eṭemmašunu mê luzamme Sin nannar šamê u kaqqiri saharšuppû kīma nahlapti luhallipšunu mazzassašunu issu libbi ēkurri ēkalli luhalliq o zarʾēšunu ṣalamānišunu ina išāti ikarruru dipārašunu ina mê uballû
 1	adê	adû	NOUN	N	Case=Nom|Gender=Masc|MaParticle=No|NounBase=Free|Number=Plur	0	root	_	_
@@ -6657,7 +6657,7 @@
 10	uballû	belû	VERB	V	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbStem=D	6	conj	_	_
 
 
-# sent-id = oracc.org_saao_saa10_P237822
+# sent_id = oracc.org_saao_saa10_P237822
 # text = ana ummi šarri bēltīya aradka Aplaya Bel u Nabu ana ummi šarri bēltīya likrubū adû ūmussu Nabu u Nanaya ana balāṭa napšāti u arāka ūmū ša šar mātāti bēlīya u ummi šarri bēltīya uṣalla ummi šarri bēltā lū hamāti mār šipri ša dunqu ša Bel u Nabu itti šar mātāti bēlīya ittalak
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	ummi šarri	ummi šarri	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -6708,7 +6708,7 @@
 47	ittalak	alāku	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|VerbStem=G	46	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313759
+# sent_id = oracc.org_saao_saa01_P313759
 # text = x x x x x-ru šukkallu o x x x x šarru bēlī i-sa-x x x x x+x ṣarpu miksīšunu x x x x-ka
 1	x	x	X	X	_	0	root	_	_
 2	x	x	X	X	_	1	dep	_	_
@@ -6855,7 +6855,7 @@
 30	u₂	u₂	PROPN	X	Gender=Masc	29	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334360
+# sent_id = oracc.org_saao_saa15_P334360
 # text = saao/saa15/P334360
 1	saao	saao		_	_	0	root	_	SpaceAfter=No
 2	/	/		_	_	1	dep	_	SpaceAfter=No
@@ -6930,7 +6930,7 @@
 63	ugalludu	galātu	VERB	V	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbStem=D	62	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa02_P237185
+# sent_id = oracc.org_saao_saa02_P237185
 #P237185
 # text = x x x {d}be-lit-x x x x x x x x x x x x x x kalîšunu ilāni rabûti ša šamê u qaqqari x x x x x x x x x x kî ultu ūmu annî adi ūmu mala balṭāni x x x x x x x šû Aššur-bani-apli šar Mat-Aššur šarrāni bēlāni libbīni itti Aššur-bani-apli šar Mat-Aššur bēlīni gummuru lū šipirti lū mār šipri ša Šamaš-šumu-ukin šar Babili x x x x x x īpušu lū ultu pān mārē ša Šamaš-šumu-ukin x x x x lū ultu pāni bēl nakri ša Aššur-bani-apli šar Mat-Aššur bēlīni illika nipteṣnu u ana pašīri niltakanu x x x ana Aššur-bani-apli šar Mat-Aššur bēlīni nišapparuš tab-bi-x+x maṣṣartu ša Aššur-bani-apli šar Mat-Aššur bēlīni ninaṣṣaru u maṣṣartu ša bēl piqitti ša ina muhhīni ipqidu ninaṣṣaru lū mamma nazru x+x x x x x x mušamhiṣu mušadbibu ša amat lā ṭābti ana muhhi Aššur-bani-apli šar Mat-Aššur bēlīni iqabbû lū ana muhhi bēl piqitti ša Aššur-bani-apli šar Mat-Aššur bēlīni iqabbû u anīni niltemû u ni-qit-x x x x x x ina iṣ-qāti semērē ninamdûšina ana Aššur-bani-apli šar Mat-Aššur bēlīni nišapparuš ultu ūmu annî adi ūmu mala balṭāni x x ša Aššur-bani-apli šar Mat-Aššur rāʾimānīšu u mātīšu lā ṭābti x x x x x x nītepšu nultēpišu niqtabi x x x x x x x x x x x x x bēl nakar ša Aššur-bani-apli šar Mat-Aššur bēlīni x x x x x x x lā bēl salāmīni mimma mala Aššur-bani-apli šar Mat-Aššur bēlāni iqabbannāšu akī pîšu nippušu x x x x x x x x x qašātīni nidekkûma itti Aššur-bani-apli šar Mat-Aššur bēlīni nizzizzūma ṣālti ana libbi nakrīšu nippušu x x x x x x nakrīšu ina bibil libbīni nisekkipu x+x šumni ina pān Aššur-bani-apli šar Mat-Aššur bēlīni nubannû hīṭūni ša x+x x x x x x x x x x x x x x ana Aššur-bani-apli šar Mat-Aššur bēlīni ina muhhi Šamaš-šumu-ukin nihṭû ina pān Aššur-bani-apli šar Mat-Aššur bēlīni yaʾnu x x x x x lū ša Šamaš-šumu-ukin lū mātu šanītu mala Aššur-bani-apli šar Mat-Aššur bēlīni lā išaddadu ana pānīni ittalka x x x x x x x x x x x ablu niṣabbatūma ana šarri bēlīni nišapparu x x x Aššur-bani-apli šar Mat-Aššur bēlīni niraʾʾāmu u nakaršu nizeʾʾīru ultu ūmu annî adi ūmu mala balṭāni Aššur-bani-apli šar Mat-Aššur šarrāni bēlāni šūtūma šarru šanamma bēlu šanamma ana muhhīni niltakanu nubteʾʾû šipirti ana nakri ša Aššur-bani-apli šar Mat-Aššur bēlīni x x x lū šipirti lū mār šipri ša ultu māti šanītumma ana pānīni ittalka harrāna ana šēpīšu nišakkanūma ana pāni Aššur-bani-apli šar Mat-Aššur nišappar x x mamma ša ana pāni Aššur-bani-apli šar Mat-Aššur x x x x x x x x x x x x x x x+x+x+x+x x x x x x x x x x x x x x x x x x x x x x x x x x x-a-mu ša x x x x x x x x x x x x x x x ilāni ša Mat-Aššur u Mat-Akkadi x x x x x x x x x x x x x x kî anīni ana adê annūti ša Aššur-bani-apli šar Mat-Aššur bēlīni nimīssu nipassassu x x x x x x x x x x x x x x x Aššur abi ilāni mušīm šīmāti šīmat lemutti lā ṭābti lišīmannāši Marduk šar ilāni bēl mātāti a-x+x x x x x x x x x x x x x x x x Nabu pāqid kiššat šamê u kaqqari is-x x x x x x x x x x x x x x Šamaš dayān šamê u kaqqari be x x x x x x x x x x x x x dīni parikti lidīnannāši x x x x x x x x x x x x niṭlu īnīni lišši ina eklēti nittallāka Sin nannaru šamê u kaqqari x x x x x x x x x x x x x x ēkurri u ēkalli erēbānu u₂-x x x x x x x x x x x x x x x Ea šar apsî mê nagbi x x x x x x x eliš ina balṭūti lissuhannāšu šapliš ina kaqqari eṭemmānu mê lizamme Adad gugalla šamê u kaqqari x x x x x x x x x x x x x x x mimma ina libbi lā illâ lā x+x x x x x x x x x x x x x x x Ninurta aplu rēštû x x x x x x x x x x x x x x x x Nergal dannudannu ilāni ina x x x x x x x x x x x x x x x x Zababa bēl šaqû ša x x x x x x x x x x x x x x x x x Palil šar ṣēri ina x+x x x x x x x x x x x x x x x x Zarpanitu nādinat šumi u zēri x x x x x x x x x x Nanaya bēlet rêmu u x x x x x x x x x x x x x x x x kabti u rubê tušamriṣannāši x x x x x x x x x x x x x x x x Ištar āšibat Arbail ilat tāhāzāti x x x x x x x x x x x x ina šapal šēpē ša nakrīni lišakmisannāši x x x x x x x x x x x x x x x x x x+x x+x x+x x x+x x x+x x+x x x x x x x x x x x x x x x x x x x x x x x x x sik x x x x x x x x x x
 1	x	x	X	X	_	_	_	_	_
@@ -8030,7 +8030,7 @@
 60	x	x	X	X	_	59	dep	_	_
 
 
-# sent-id = oracc.org_rinap_rinap4_Q003277
+# sent_id = oracc.org_rinap_rinap4_Q003277
 
 #http://oracc.org/rinap/rinap4/Q003277
 # text = Marduk aplu rēštû Enlil ilāni ša šuddû u šūšubu bāšû ittišu
@@ -8072,7 +8072,7 @@
 9	šumšu	šumu	NOUN	N	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	fixed	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334043
+# sent_id = oracc.org_saao_saa01_P334043
 # text = ana šarri bēlīya urdaka Ṭab-ṣil-Ešarra
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -8155,7 +8155,7 @@
 21	assapra	šapāru	VERB	VERB	Aspect=Perf|Gender=Com|Mood=Ind|Number=Sing|Person=1|Ventive=Yes|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334907
+# sent_id = oracc.org_saao_saa15_P334907
 # text = x x x x+x-ah issīšu addabub mā ina ēkalli alik ūmâ annurig ina ēkalli ušēbilaššu
 1	x	x	X	X	_	_	_	_	_
 2	x	x	X	X	_	1	dep	_	_
@@ -8174,7 +8174,7 @@
 15	ušēbilaššu	wabālu	VERB	V	Gender=Com|Gender[obj]=Masc|Mood=Ind|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Tense=Past|Ventive=Yes|VerbForm=Fin|VerbStem=Š	14	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334125
+# sent_id = oracc.org_saao_saa01_P334125
 #P334125
 # text = ana šarri bēlīya urdaka Ṭab-šar-Aššur lū šulmu ana šarri bēlīya ina muhhi hurāṣī ša ṣupur agappi ša šarru bēlī išpuranni ahtīaṭ 1/2 manû ina ša Babili šû ibašši hurāṣu issu libbi utru aktanak issēniš ina muhhi šarri bēlīya ussēbila Šuzubu iqṭibia mā ina 1/2 manû o ša Babili ittannūni
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -8252,7 +8252,7 @@
 10	ittannūni	tadānu	VERB	VERB	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|Ventive=Yes|VerbForm=Fin|VerbStem=G	2	ccomp	_	_
 
 
-# sent-id = oracc.org_saao_saa02_Q009186
+# sent_id = oracc.org_saao_saa02_Q009186
 
 #http://oracc.org/saao/saa02/Q009186
 # text = šumma ša issi Aššur-bani-apli mār šarri rabiu ša bēt rēdûti mār Aššur-ahu-iddina šar Mat-Aššur bēlkunu ša ina muhhīšu adê issikunu iškunūni ibbalkatūni attunu issīšu tašakkanāni šumma kî daʾāni iṣṣabtūkunu attunu lā tahalliqāni ina muhhi Aššur-bani-apli mār šarri rabiu ša bēt rēdûti lā tallakāninni
@@ -8296,7 +8296,7 @@
 38	lā	lā	PART	NEG	_	39	advmod	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313817
+# sent_id = oracc.org_saao_saa05_P313817
 # text = x x x x x x x x x x x x x x x x x x ēkalli x x x x x x x x x+x du ul x x x x x x x Gabbu-amur ša x+x x x x x atta tūda kî x x x x x x x+x-ru-u-ni il-x x x x x x-bu-u-ni annurig x x x x emūqīya karkāti {LU₂}x+x x x x x x x x+x-li adu {ANŠE}x x x x x x x x x rab ša-rēši i-x x x x x x x x x+x ana x x x x x x x mā šarru bēlī x x x x x x x x x x x x x x x x x x x x x sa x+x x x x x x x x ša-qurbūti ša x x x x x x-ni ša ēkalli issēn x x x x x ittalkūni mā x x x x x x x šaprāni lā x x x x atta tūda kî x x x x x x x x illakni x+x x x x x x x x x+x-u₂ ša-qurbūti x x x x x ina pāni {URU}ku-x x x x x x x-ta ana {LU₂}x x x x x x x x ina muhhi ṭēme x x x x x x x x-nu it-ta-x x x x x x x x x x+x hu x x x x x x x x x x x x x x x x
 1	x	x	X	X	_	0	root	_	_
 1	x	x	X	X	_	1	dep	_	_
@@ -8553,7 +8553,7 @@
 252	x	x	X	X	_	251	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334333
+# sent_id = oracc.org_saao_saa01_P334333
 #P334333
 # text = ana šarri bēlīya urdaka Ṭab-šar-Aššur lū šulmu ana šarri bēlīya ina muhhi pilki ša pāhiti ša Kalha ša šarru bēlī o išpuranni mā atâ pāhutu ša Arrapha mešli abulli ina pānīšu uramme ina libbi ūm 03-KAM kî ina muhhi dūri ētiqūni ittalkūni iqṭibûni mā alka pilkānīni ina birtunni kaʾʾin attalak uktaʾʾin ina birtuššunu issurri šarru bēlī iqabbi mā ina muhhi mīni x x ša pāhiti ša Kalha issu libbi x x pilkīšu ša dūri adi x x x lēt abulli ša nāmeri nišē ētarba u ša pāhiti ša Arrapha issu libbi 08 mē 50 pilkīšu ša dūri adi lēt abulli ša nāmeri nišē ētarba dūru annīu issu libbi abulli ūtalli rēhti abulli libittāti antunu 03 qātē ana pāhiti ša Arrapha attidin 01 qātī ana pāhiti ša Kalha ina muṣallimma attidin udīni unqi šarri ina muhhīya lā taqarribanni u pāhutu ša Kalha lā ūda kî pilkušu ša dūri adi lēt abulli ērubūni ina muhhi šû iqṭibi mā pilku ina muhhīya intiʾīdi ūmâ aptaras ina birtuššunu yāmuttu pilkušu eppaš
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -8765,7 +8765,7 @@
 7	eppaš	epēšu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbStem=G	2	ccomp	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P314051
+# sent_id = oracc.org_saao_saa01_P314051
 # text = x+x x x x x x x x qanšu te-te-x x x x ina qabsi āli x x x
 1	x+x	x+x	X	X	_	_	_	_	_
 2	x	x	X	X	_	1	dep	_	_
@@ -8833,7 +8833,7 @@
 10	x	x	X	X	_	9	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334223
+# sent_id = oracc.org_saao_saa05_P334223
 #P334223
 # text = ana šarri bēlīya urdaka Zabaya rab bīrti ša Appina lū šulmu ana šarri bēlīya šulmu ana bīrti šulmu ana urdāni ša šarri bēlīya ša-rēši ša-muhhi-bēti ša Suitka bēl āli ihtalqa ana Appina ittalka maqtūtu ina rēš urhi ša Arahsamni ana ēkalli assapar maqtu ina qātīšu mār šiprāni ša issīšu ittalkūnu šû adakanni lā illika
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -8922,7 +8922,7 @@
 4	illika	alāku	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|Ventive=Yes|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313619
+# sent_id = oracc.org_saao_saa05_P313619
 #P313619
 # text = ana šarri bēlīya urdaka Dinanu lū šulmu ana šarri bēlīya ša šarru bēlī ina šaddaqdiš išpurannīni ša-rēši ša šarru bēlī iqbûni mā ina pānīšu x x x Išme-ilu ina pa-ni-x x kî x x x x x x x x x kas ru x x x x x x-ṭu-ru GU₂ x x x x x-tar-ra ri x x x x su-sa-a.a x+x x x x x x ša Birate x x x errubu x x x x x x x x x x
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -9022,7 +9022,7 @@
 56	x	x	X	X	_	55	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334804
+# sent_id = oracc.org_saao_saa01_P334804
 #334804
 # text = ana šarri bēlīya urdaka Nabu-pašir lū šulmu ana šarri bēlīya Sin Nikkal ana šarri bēlīya likrubu Adad Buru ana šarri bēlīya likrubu Duru ugdammir 01-te me x sīri lēʾāni ša kanni pisannāte assakan x+x+x x+x x x x
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -9085,7 +9085,7 @@
 14	x	x	X	X	_	13	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334210
+# sent_id = oracc.org_saao_saa01_P334210
 #P334210
 # text = ana šarri bēlīya urdaka Adad-ibni lū šulmu ana šarri bēlīya ša šarru bēlī išpuranni mā rab urāsāni issi x ṣābāni ša Nampigi ša ina Qipani ittalkūni mā {LU₂}GAL-x-ni x x x-u mā x x x x x x x x x-ni x x x x+x x x x x x x šunu
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -9159,7 +9159,7 @@
 51	šunu	šunu	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=3	50	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334359
+# sent_id = oracc.org_saao_saa01_P334359
 #P334359
 # text = ana šarri bēlīni urdānīka bēl ālāni ša ina Milqia dulli šarri eppašūni ša šarru bēlīni išpurannāšīni mā adi hardāni mā epša gammera ša šarru bēlīni išpurannāšīni neppaš ana šarri bēlīni niddāna dullu ina muhhīni dāna adanniš issu pān kallāpāni issu pān rādi kibsiāni lā urammûnāši dulli šarri lā neppaš ūmâ šarru bēlīni nittahra lurammûnāši dulli šarri nēpuš kīma ina mātīni nittalak habullīni nušallīme
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -9251,7 +9251,7 @@
 6	nušallīme	šalāmu	VERB	VERB	Gender=Com|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|VerbStem=D	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa09_P334927
+# sent_id = oracc.org_saao_saa09_P334927
 #
 # text = x x x x x x x x x x x x x x x x x x x x x x x x x x x-an x x x x x x x-nu-ni x x x x x x ṭābtu x x x x x x+x dīna x x x x ihtiṣin x x x-šu₂-nu ussēlia šulmu ana šamê u kaqqiri šulmu ana Ešarra šulmu ana Aššur-ahu-iddina šar Mat-Aššur šulmu ša Aššur-ahu-iddina iškunūni ina muhhi šēpē lillik isinnu ina Ešarra Aššur issakan x x x ša Libbi-ali x x x Aššur-ahu-iddina x x x x x x x x x-ni x x x x inašši x x x x x x mātāti x x x x-ti ina pān Aššur x x x-a-ni issi Aššur-ahu-iddina x x x illakūni x x x x-šu₂ išarrupu x x ana garinnīšu x x x lu MUN 03 timmē x x x ēnātīšu ušettaq sitammea marʾē Mat-Aššur šarru nakaršu iktašad šarrukunu nakaršu ina šapal šēpēšu issakan issu rabâ šamši adi napāh šamši issu napāh šamši adi rabâ šamši Melidi ahappi x x x ahappi x x x x x x x Gimiraya ina qātēšu ašakkan išātu ina Ellipi ummad kippat erbetti Aššur ittannaššu issu bēt inappahanni bēt irabbûni šarru mihiršu laššu akī ṣīt Šamaš namir annīu šulmu ša ina pān Bel-Tarbaṣi ina pān ilāni šakinūni annurig sarsarrāni annūti ussadbibukka ussēṣunikka iltibûka atta pîka taptitia mā anīna Aššur anāku killaka asseme issu libbi abulli šamê attaqallalla lakrur išātu lušākilšunu atta ina birtuššunu tazzaz issu pānīka attiši ana šadê ussēlišunu abnāti aqqullu ina muhhišunu azzunun nakrūtīka uhtattip dāmēšunu nāru umtalli lēmūru lunaʾʾidūni akī Aššur bēl ilāni anākūni annû šulmu ša ina pān ṣalme ṭuppi adê annīu ša Aššur ina muhhi haʾūti ina pān šarri errab šamnu ṭābu izarriqu niqiāti eppušu riqê illuku ina pān šarri isassiu abat Issar ša Arbail ana Aššur-ahu-iddina šar Mat-Aššur ilāni abbēya ahhēya alkāni ina libbi adê x x x x x x x x x x x x x x ina muhhi tamlê hirṣu x x x mê ṣarṣāri tassiqišunu massītu ša 1(ban₂) mê ṣarṣāri tumtalli tattannaššunu mā taqabbia ina libbikunu mā Issar pāqtu šî mā tallaka ina ālānikunu nagiānikunu kusāpī takkala tamaššia adê annūti mā issu libbi mê annūti tašattia tahassasanni tanaṣṣara adê annūti ša ina muhhi Aššur-ahu-iddina aškunūni abat Issar ša Arbail ana Aššur-ahu-iddina šar Mat-Aššur akī ša memmēni lā eppašūni lā addinakkanni mā 04 sippī ša Mat-Aššur lā akpupâ lā addinakkâ nakarka lā akšūdu giṣṣiṣīka ayābīka akī gurṣiptī lā alqūtu atta ana ayāši mīnu taddina akāli ša qarīte laššu ša ak lā bēt ili akkalli akāli akkalli kāsī mā ina pāni adaggal ēnāti ina muhhi aktarar mā kettumma 1(ban₂) akal aṣūdi 1(ban₂) massītu ša šikāri ṭābi keʾʾin urqi akussu laššia ina pîya laškun lumalli kāsu ina muhhi lassi lalâya lutirra x x x x x x x x x x x x x x x x x-ni x x x x x x lašši x x x x x x lallik x x x x x ētalia x x x isinnu assakan akī ina libbi anākūni mā nūda akī Issar ša Arbail attīni ana Mat-Aššur uttammeša nēmalka lāmur šadâni ina šēpēya lakbus ladbub ina muhhi Aššur-ahu-iddina ūmâ rīš Aššur-ahu-iddina 04 sippī ša Mat-Aššur aktappa attannakka nakarka aktašad nišē ša issīka izzazūni ṭēnšunu nabalkut ina libbi annīti tammar akī Issar ša Arbail anākūni kīma parriṣūti ussaddidūni ša imitti ša šumēli šipṭu naṣu izzazzu manzāz ēkalli urdu ēkalli šunu ša ina muhhīka isihûni altibia ina muhhi šinnīšunu ana zaqībāni assakanšunu La-dagil-ili raggimu Arbailaya x x x x x x Issar x x x x x x-lu-ni irtugum
 1	x	x	X	X	_	_	_	_	_
@@ -10113,7 +10113,7 @@
 14	irtugum	ragāmu	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|VerbStem=G	13	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa13_P238742
+# sent_id = oracc.org_saao_saa13_P238742
 # text = x x x x x x Belet x x x x+x x x x x lā taqabbi x x kî takallu illika umma alikma ilāni ṣab-x x x u ilku šalmu ina bīt ili x x x alik kî ša alliku ša-qurbūtu x x x+x bēlīya umma nikkassi inamdina ina libbāte ša anhuru ullaššu ullû ša-muhhi-āli u Ištar-naʾid hazanni pîšunu itti ša-qurbūtu kî iškunū umma ana muhhi Raši-ili muqutma x+x muhuršūma itti x x x ša₂ aʾ-x+x x x x x x+x x x+x x x x x x+x-tu x+x x x x x x-na muhhi x x x x x x x x kî x x x x x x x x x x x x x adû ana šarri bēlīya altaprūma dullu ina bīt ilānīka lā iššakkan itti Marduk Zarpanitu attenīla itti šarri bēlīya attenīla šarru lā umaššarannīma ina tukkānu lā ahalliq kî ša šarri bēlīya ihtarṣamma ultu muhhi 01 šiqli adi 02 šiqli hurāṣi ina pānīya ittannūma u ina puhri ša mātāti šarru lidūkanni ia-x+x x+x x x x x+x ša₂ x+x x x x x x
 1	x	x	X	X	_	0	root	_	_
 2	x	x	X	X	_	1	dep	_	_
@@ -10296,7 +10296,7 @@
 179	x	x	X	X	_	178	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334710
+# sent_id = oracc.org_saao_saa15_P334710
 # text = ša šarru bēlī išpuranni mā Samirinaya ibašši ammar ina qātēka ina Dur-Šarruken šaṣbitsunu harammāma ina muhhi nasīkāni assapar muk naggārāni pahhārī gabbu pahhiranni lillikūni ina pānāt hubte ša ina Dur-Šarruken lizzizzu lā immaggur lā išapparūni piqtatti egerāte x x ina muhhi nasīkāni lū ušēbil muk issu maṣi ummânī lā tašapparāninni dullu ina pānīya lā eppašūni nišē ammar annāka x x x x ina muhhikunu x x x x+x ina muhhi x x x x x basi ummânī lišparūni dullu ina pānīya lēpušu ūmâ kî ša šarru bēlī išpuranni x x x x x+x-mi laššu issi issēn nasīki lā adabbub naggārāni pahhārī x x x x x aptiqiddi x x x x x anūt bēti x x x x šarru bēlī x x x x x issu muhhi x x x x x x-a.a x x x x x x x+x x x x x x x-bu-bu
 1	ša	ša	PRON	PRP	_	4	obl	_	_
 2	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -10446,7 +10446,7 @@
 146	x-bu-bu	x-bu-bu	X	X	_	145	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P313635
+# sent_id = oracc.org_saao_saa15_P313635
 #P313635
 # text = mā x x x x x neppaš šūtūma lēpūšu mā anīnu nillik rēš maddattīni nišši mā ina šiāri kî maddattīni lā qurbatūni mā lā issikâ idabbub mā ana ēkalli x x anāku x x x x
 1	mā	mā	PART	Quotative	_	7	discourse	_	_
@@ -10499,7 +10499,7 @@
 21	x	x	X	X	_	20	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313542
+# sent_id = oracc.org_saao_saa05_P313542
 #P313542
 # text = ana masenni bēlīni urdaka Ariye Ariza lū šulmu ana masenni bēlīni ša masennu bēlī išpuranni ina muhhi x x x ina timāli x x x x x x x x x x x
 1	ana	ana	ADP	ADP	_	2	case	_	_
@@ -10541,7 +10541,7 @@
 27	x	x	X	X	_	26	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P314297
+# sent_id = oracc.org_saao_saa01_P314297
 # text = ša₂-ki-x x x x x x x
 1	ša₂-ki	ša₂-ki	X	X	_	_	_	_	SpaceAfter=No
 2	-	-	X	X	_	1	dep	_	SpaceAfter=No
@@ -10707,7 +10707,7 @@
 10	x	x	X	X	_	9	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P393858
+# sent_id = oracc.org_saao_saa05_P393858
 #P393858
 # text = ana šarri bēlīya urdaka Ša-Aššur-dubbu lū šulmu ana šarri bēlīya adanniš šulmu ana bīrāti ana māti ša šarri bēlīya ina muhhi ṭēme ša sangî ša Penza ša šarru bēlī išpuranni mā mīnu ša šarru Urarṭaya ina muhhīšu išpuranni ukīnūšunūni mā ina muhhi piqitti ša Tasi x x x x x+x lišʾul x+x-si x x x x x x šarri bēlīya x x x x x x ša-qurbūti x x x x mār šiprāni x x x x x ša Pulua x x x x x-u-ni ša Alzunu x x x x ittalkūni ina birti x x x ina birti ahhēšu uktinnu x x zakīti sangû ina muhhi x x x x x x x ša-qurbūti x x x x x x ētarab x x x x x x x x-tu₂ x x x x x x x x x x x x x x x x Tidi x x x x x ina tahūme ša Šubria x x+x-ma-nu ullūtu gi-x x ša nagie anūssunu x x x x-ru-tu ina Pume izzazzu {1}x-x-ra-a rab dayālī ša Hu-Teššub šarru bēlī ūda x x x ša Rusa ussahhir x x x x iptiqissu ūmâ x x x x ina pān Hu-Teššubu x x x x x-da lā memmēni mār šipri ina muhhīšu ina Pume issabar mā šummu atta x x x kammusāka mā x x x dumāqī ša abūwa ša anāku addiakkanni sahhira mār šipri ša illikanni mā šulmu ana Hu-Teššub lā taqabbi riksu lā tamahhar asūnakka mār šipri Hu-Teššubu ina muhhi Urarṭaya issi mār šiprīšu issabar ittalak ina mešli hūli iktalaššu mā adi allakūni bēt bēlēka aqabbûni mā šummu urammūka tallaka laššu mā lā tasahhur x x x x x x x+a x+x x x ši an x x x x x x x aš₂ u x x x-MEŠ mētu x x x x x x akṣur x x x mā x x x x x x-ni liddin
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -11071,7 +11071,7 @@
 43	liddin	tadānu	VERB	V	Gender=Masc|Mood=Prec|Number=Sing|Person=3|VerbStem=G	42	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P314205
+# sent_id = oracc.org_saao_saa05_P314205
 #314205
 # text = x x x zīnu ina muhhi x x maʾda izzunun o x x issīaṭ Aššuraya x x x issu libbi bīrāti ittūṣūni dēktu ina libbišunu iddukku x x x x iddūku x x
 1	x	x	X	X	_	0	root	_	_
@@ -11121,7 +11121,7 @@
 7	x	x	X	X	_	6	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa10_P237275
+# sent_id = oracc.org_saao_saa10_P237275
 # text = ana šar kiššati bēlīya aradka Nabu-iqbi Nabu u Marduk ana šarri mātāti bēlīya likrubū kî anāku akanna x x x x x x x x x maṣṣarti ša šarri bēlīya anaṣṣaru Ašaredu šikin ṭēmi ša Kute bīt abīya ana nayālu inamdin u nikkassīya gabbi ana pānīšu utâru x manê kaspi attūwa x x x attūwa x x x x x x-ṭu ša iš-x+x x x x x x šu 02 alpāni x x x x x x+x+x x x-ar-ru na-x x x x x Kimmuhaya x x x x x ana kūmu 15 manê x x x x x uṣṣabbit ana x x x x x x aqabbīma mamma ul išemmanni x x x x x manê erî x x x x x x x x x lu-uk-x x x kî pān šarri bēlīya mahru šarru bēlā lipqidma nikkassīya liššīšūnimma liddinūni ana šumu ša šarri bēlīya šamê u qaqqaru inuššū bēli šarrāni lā umaššarannīma nišīya ina bīt tankāri lā imuttū šar mātāti o kî ša pānīšu mahri o līpuš o
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	šar	šarru	NOUN	N	Case=Gen|Gender=Masc|NounBase=Bound|Number=Sing	0	root	_	_
@@ -11295,7 +11295,7 @@
 170	o	o	X	X	_	169	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313719
+# sent_id = oracc.org_saao_saa01_P313719
 # text = x x x x x x x urdāni x x x x x x+x-li-me x x x adanniš x x x x x Marduk-šumu-iddina x x x x ittalka x x x x x
 1	x	x	X	X	_	_	_	_	_
 2	x	x	X	X	_	1	dep	_	_
@@ -11419,7 +11419,7 @@
 75	iš	iš	X	X	_	74	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P334528
+# sent_id = oracc.org_saao_saa05_P334528
 #P334528
 # text = ana šarri bēlīya urdaka Aššur-dur-paniya lū šulmu ana šarri bēlīya dayālīya ša ina libbi šadî šunūni ša-lišāni šû ša issu Irgistiani ana x x Ariye ana šadî illikūni dayālīya iṣṣabtuniššu assaʾalšu mūku mīnu ṭēmu ša Urarṭaya mā Etinaya x+x x x x mā x il x is-x+x x x mā x lā uṣṣa x+x x x
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -11496,7 +11496,7 @@
 20	x	x	X	X	_	19	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334505
+# sent_id = oracc.org_saao_saa15_P334505
 # text = ana šarri bēlīya urdaka Nabu-belu-kaʾʾin o lū šulmu ana šarri bēlīya šulmu ana māti ša šarri bēlīya Mataya ša battebattēni nēhu ša šarru bēlī išpuranni mā mār Karakku ša Uriakku ṣabta kilaššu mā Rameti ina kūmuššu piqda kî ša šarru bēlī išpuranni mār Karakku assapar iṣṣabtu aktalaššu Rameti ina kūmuššu nussēbil Aššur-ṣabtanni ittūbilšu Uriakkaya lā immagguru ina šaplanuššu mā mār Irtukkanu x x x x+x hi x+x x x x x x x šēbila x+x x x x x kî ša šarru bēlī i-ša₂-x x x x
 1	ana	ana	ADP	PRP	_	2	case	_	_
 2	šarri	šarru	NOUN	N	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -11587,7 +11587,7 @@
 87	x	x	X	X	_	86	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P224395
+# sent_id = oracc.org_saao_saa01_P224395
 # sent_id = P224395-0
 # text = saao / saa01 / P224395
 1	saao	_	_	_	_	_	_	_	_
@@ -11777,7 +11777,7 @@
 99	x	x	X	_	_	98	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P334905
+# sent_id = oracc.org_saao_saa15_P334905
 # text = x x x x x+x x+x x x x x x x x-ni iddubub mā lū lā ušaggalunāši x x x illak ana ahhēni x x x-AŠ iqabbi mā gabbišunu ana pān šarri bēlīya nubbalaššunu annurig arbittušunu ina qāt mār šiprīya ana pān šarri bēlīya ussēbilaššunu {1}x x+x Kaldaya iqṭibia mā Puqudaya ša ina Bit-Amukanni kammasūni x x x-i Kunaya issīya essiru x x x x gabbu iptalhu adanniš mā x x ušaggalunāši x x x x x-tu₂ usahhuru x x x x x x x-x-du x x x x x x x x adanniš
 1	x	x	X	X	_	_	_	_	_
 2	x	x	X	X	_	1	dep	_	_
@@ -11875,7 +11875,7 @@
 94	adanniš	adanniš	ADV	AV	Case=Ter	93	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P314037
+# sent_id = oracc.org_saao_saa05_P314037
 #314037
 # text = ana šarri bēlīya urdaka Nashir-Bel lū šulmu ana šarri bēlīya x x x x x x x x x x x x x x hūlu x x x x x x x ib x+x x x x x x x mā x x x x x x ina {URU}x+x x x mā anīnu ina x+x x šunu ittatakku mā 05 ūmāti ina {URU}x x ina pānīni rak-x x x x x x x x nuk mīnu ša šītīni amra qibīya annurig ina pānišunu adaggal kīma issuhrūni ana šarri bēlīya ašappāra
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -11998,7 +11998,7 @@
 6	ašappāra	šapāru	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Ventive=Yes|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313469
+# sent_id = oracc.org_saao_saa05_P313469
 #P313469
 # text = ana šarri bēlīya adanniš adanniš lū šulmu urdaka Hu-Teššub nagiu x x x x x x+x iqabbûniššu x x x x x x x x x+x x x x x x x x x x bi x x x x x x x x x-šu x x x x x x x pāhāti x x x x x x x x x+x x x x x x x x x x-a ša-pēthal šarri x x x x x ina muhhi nāgir ēkalli x+x x x x ina muhhi emūqē ša ina Hubuškia ina qanni šunūni ina muhhi egerti annītu ana kuʾinti assapar
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -12123,7 +12123,7 @@
 16	assapar	šapāru	VERB	V	Aspect=Perf|Gender=Com|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P334143
+# sent_id = oracc.org_saao_saa01_P334143
 # text = ana šarri bēlīya urdaka Sin-ahhe-eriba
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -12557,7 +12557,7 @@
 10	ussēbila	wabālu	VERB	VERB	Aspect=Perf|Gender=Com|Mood=Ind|Number=Sing|Person=1|Ventive=Yes|VerbForm=Fin|VerbStem=Š	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa10_P313463
+# sent_id = oracc.org_saao_saa10_P313463
 # text = ussahkimūni ina muhhi kuzippī ša nišē ētapaš ūmâ ibaššî šaniūti lušēṣunê ina muhhi eppâša ulâ ina muhhi annūtimma eppaš mīnu šītīni šarru bēlī liprus lišpura u ina muhhi abnī ammūti ša mugirri šummu naṣūni lū iddunūni lū u₂-x x x x x x x x x x
 1	ussahkimūni	hakāmu	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|SubSuff=Yes|Ventive=No|VerbForm=Fin|VerbStem=Š	7	advcl	_	_
 2	ina	ina	ADP	PRP	_	3	case	_	_
@@ -12608,7 +12608,7 @@
 47	x	x	X	X	_	46	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa15_P313476
+# sent_id = oracc.org_saao_saa15_P313476
 #P313476
 # text = ana šarri bēlīya urdaka {1}x x x x x lū šulmu ana šarri bēlīya ina muhhi ša šarru bēlī išpuranni mā etinnāni dīni ana rabiūti ša etinnānišunu laššūni lū qurbu 06 šunu etinnāni ša issēya x x dullu ša šarri neppaš issu rēši ina muhhi Badaya ina muhhi Lansi assatabbar mūku yāmuttu ana pilkīšu etinnu lūbila issēn etinnu lā imaṭṭi šarru bēlī ūda etinnu halqu Kaššaya ina pānīni ūmâ 06 etinnāni Kaššaya issēya naṣāka kīma issēn ana Badaya issēn ana Lansi attidin 04 ina pānīya dulli eppušu o lišparūni Kaššaya ana bēl piqitti ša Lansi mā etinnāka ibaššî šumma ibašši šarru bēlī x+x x x dullu lēpūšu ana šarri bēlīya laddin
 1	ana	ana	ADP	PRP	_	2	case	_	_
@@ -12768,7 +12768,7 @@
 4	laddin	tadānu	VERB	V	Gender=Com|Mood=Prec|Number=Sing|Person=1|VerbStem=G	0	root	_	_
 
 
-# sent-id = oracc.org_saao_saa05_P313837
+# sent_id = oracc.org_saao_saa05_P313837
 # text = x x x x-šu₂-nu i-x x x x x+x-ṣu-u₂-ni x x-li-te-šu₂-nu ina x x x x x-bu-u da-x x x x-lak-aš₂-šu x x x x x ṣu ni x x x x x dubbu x x x x x kiriu x x libbi šarri bēlīya lū ṭāb u rēhti ahhēšunu ušēṣûni ibašši Labiraya ibašši Sakkuanaya annurig ūmâ annūte ittalkūni mā ahīni ina libbi Mat-Aššur nittūbil mā uzaʾʾunāši mā ina ēkalli ṭēmu x x x x x x x+x an x
 1	x	x	X	X	_	0	root	_	_
 1	x	x	X	X	_	1	dep	_	_
@@ -12872,7 +12872,7 @@
 13	x	x	X	X	_	12	dep	_	_
 
 
-# sent-id = oracc.org_saao_saa01_P313938
+# sent_id = oracc.org_saao_saa01_P313938
 # text = ana šarri bēlīya urdaka Pan-Aššur-lamur
 1	ana	ana	ADP	ADP	_	2	case	_	_
 2	šarri	šarru	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
